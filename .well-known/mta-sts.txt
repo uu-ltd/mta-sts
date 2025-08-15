@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: your-google-workspace-mx-records
+max_age: 86400
