@@ -6,4 +6,5 @@ mx: *.unknown-unknowns.com
 mx: *.uu-ltd.com
 mx: *.aspmx.l.google.com
 mx: aspmx.l.google.com
+mx: smtp.google.com
 max_age: 604800
